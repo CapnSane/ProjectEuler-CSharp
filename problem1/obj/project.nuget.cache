@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6k5yujMhRluOSlH53PdUcozX1NeKg81CDxkqtbi7RoiJmsdCyi5tfQMmosOhWJcxVxQ0+XERCGsESslGUHFQ0A==",
+  "success": true,
+  "projectFilePath": "/home/leonardoschneider/Programas/Pessoal/ProjectEuler-CSharp/problem1/problem1.csproj",
+  "expectedPackageFiles": [
+    "/home/leonardoschneider/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.0/microsoft.aspnetcore.app.ref.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
