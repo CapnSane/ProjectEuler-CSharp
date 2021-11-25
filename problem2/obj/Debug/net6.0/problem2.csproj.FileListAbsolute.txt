@@ -1,0 +1,15 @@
+/home/leonardoschneider/Programas/Pessoal/ProjectEuler-CSharp/problem2/bin/Debug/net6.0/problem2
+/home/leonardoschneider/Programas/Pessoal/ProjectEuler-CSharp/problem2/bin/Debug/net6.0/problem2.deps.json
+/home/leonardoschneider/Programas/Pessoal/ProjectEuler-CSharp/problem2/bin/Debug/net6.0/problem2.runtimeconfig.json
+/home/leonardoschneider/Programas/Pessoal/ProjectEuler-CSharp/problem2/bin/Debug/net6.0/problem2.dll
+/home/leonardoschneider/Programas/Pessoal/ProjectEuler-CSharp/problem2/bin/Debug/net6.0/ref/problem2.dll
+/home/leonardoschneider/Programas/Pessoal/ProjectEuler-CSharp/problem2/bin/Debug/net6.0/problem2.pdb
+/home/leonardoschneider/Programas/Pessoal/ProjectEuler-CSharp/problem2/obj/Debug/net6.0/problem2.csproj.AssemblyReference.cache
+/home/leonardoschneider/Programas/Pessoal/ProjectEuler-CSharp/problem2/obj/Debug/net6.0/problem2.GeneratedMSBuildEditorConfig.editorconfig
+/home/leonardoschneider/Programas/Pessoal/ProjectEuler-CSharp/problem2/obj/Debug/net6.0/problem2.AssemblyInfoInputs.cache
+/home/leonardoschneider/Programas/Pessoal/ProjectEuler-CSharp/problem2/obj/Debug/net6.0/problem2.AssemblyInfo.cs
+/home/leonardoschneider/Programas/Pessoal/ProjectEuler-CSharp/problem2/obj/Debug/net6.0/problem2.csproj.CoreCompileInputs.cache
+/home/leonardoschneider/Programas/Pessoal/ProjectEuler-CSharp/problem2/obj/Debug/net6.0/problem2.dll
+/home/leonardoschneider/Programas/Pessoal/ProjectEuler-CSharp/problem2/obj/Debug/net6.0/ref/problem2.dll
+/home/leonardoschneider/Programas/Pessoal/ProjectEuler-CSharp/problem2/obj/Debug/net6.0/problem2.pdb
+/home/leonardoschneider/Programas/Pessoal/ProjectEuler-CSharp/problem2/obj/Debug/net6.0/problem2.genruntimeconfig.cache
