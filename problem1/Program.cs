@@ -5,4 +5,19 @@
 
 // Find the sum of all the multiples of 3 or 5 below 1000.
 
-Console.WriteLine("Problem 1");
+static int Multiples(int range)
+{
+    int[] list = new int [] {0};
+    var tempList = list.ToList();
+    for (var i = 0; i < range; i++)
+    {
+      if(i%3==0 || i%5==0)
+      {
+        tempList.Add(i);
+      }
+    }
+    int sum = tempList.Sum();
+    return sum;
+}
+
+Console.WriteLine(Multiples(1000));
