@@ -7,7 +7,7 @@
 
 static int Multiples(int range)
 {
-    int[] list = new int [] {0};
+    int[] list = new int [] {};
     var tempList = list.ToList();
     for (var i = 0; i < range; i++)
     {
